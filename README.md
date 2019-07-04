@@ -1,2 +1,2 @@
 # INTMaster
-INTMaster: Mater for All Interfacial Property 
+INTMaster: Master for All Interfacial Property 
